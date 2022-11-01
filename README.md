@@ -1,3 +1,2 @@
 # Great-Manager-Institue-Test
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-bfc4sv)
+Deploy link: https://great-manager-institute-test.netlify.app/
